@@ -30,7 +30,7 @@ Languages:
 - Photoshop
 - Sublime Text
 
-###Professional skills
+###Professional skills:
 - **Junior:** CSS/CSS3, SASS , HTML/HTML5, WordPress, GIT/GITHUB, TortoiseGit, Marckdown
 - **Learning:** JavaScript, jQuery, CSS3, HTML5, PHP
 
