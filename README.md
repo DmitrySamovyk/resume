@@ -19,9 +19,9 @@ Web developer (front-end)
 - **(June 2007 - September 2007)* Restourant "Репортеръ" *(bass-boy)*
 - **(August 2008 - June 2009)** Concert-hall Opera *(waiter)*
 - **(September 2011 - December 2011)** National Mining University *(laborant)*
-- **(August 2011 - October 2011)** National Mining University *(laborant)*
+- **(August 2011 - October 2011)** National Mining University *(Jr. Researcher)*
 - **(November 2012 - November 2013)** PrivatBank *(Operator on an outgoing line on the separations of PrivatBank)*
-- **(September 2014 - now)** National Mining University *(laborant)*
+- **(September 2014 - now)** National Mining University *(Jr. Researcher)*
 
 ###Additional Skills:
 Languages:
