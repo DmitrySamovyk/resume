@@ -23,7 +23,7 @@ Web developer (front-end)
 ###Additional Skills:
 Languages:
 - English Pre-Intermediate
-- Deutch Pre-Intermediate
+- Deutch A2
 
 ###Computer skills: 
 - Windows, Linux, Word, Excel
