@@ -9,14 +9,11 @@
 Web developer (front-end)
 
 ###Education:
-(2007-2012) Dnepropetrovsk, National Mining University of Ukraine *(magister in Mining)*
-(2012-now) Dnepropetrovsk, National Mining University of Ukraine, *(aspirant)*
-
-
-###Additional Education:
+**(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(magister in Mining)*
+**(2012-now)** Dnepropetrovsk, National Mining University of Ukraine *(aspirant)*
 
 ###Professional Experience:
-- **(June 2007 - September 2007)* Restourant "Репортеръ" *(bass-boy)*
+- **(June 2007 - September 2007)** Restourant "Репортеръ" *(bass-boy)*
 - **(August 2008 - June 2009)** Concert-hall Opera *(waiter)*
 - **(September 2011 - December 2011)** National Mining University *(laborant)*
 - **(August 2011 - October 2011)** National Mining University *(Jr. Researcher)*
@@ -39,4 +36,4 @@ Languages:
 
 ###My hobbies:
 - American Football
-- Crossfeet
+- Crossfit
