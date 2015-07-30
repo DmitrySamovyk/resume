@@ -9,8 +9,8 @@
 Web developer (front-end)
 
 ###Education:
-**(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(magister in Mining)*
-**(2012-now)** Dnepropetrovsk, National Mining University of Ukraine *(aspirant)*
+- **(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(magister in Mining)*
+- **(2012-now)** Dnepropetrovsk, National Mining University of Ukraine *(aspirant)*
 
 ###Professional Experience:
 - **(June 2007 - September 2007)** Restourant "Репортеръ" *(bass-boy)*
