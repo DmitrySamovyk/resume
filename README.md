@@ -26,7 +26,7 @@ Languages:
 - Deutch A2
 
 ###Computer skills: 
-- Windows, Linux, Word, Excel
+- Windows, Linux
 - Photoshop
 - Sublime Text
 
