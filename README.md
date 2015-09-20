@@ -31,7 +31,7 @@ Languages:
 - Sublime Text
 
 ###Professional skills:
-- **Junior:** CSS/CSS3, SASS , HTML/HTML5, WordPress, GIT/GITHUB, TortoiseGit, Marckdown
+- **Junior:** CSS/CSS3, SASS , HTML/HTML5, WordPress, woocommerce, GIT/GITHUB, TortoiseGit, Marckdown, Gulp
 - **Learning:** JavaScript, jQuery, CSS3, HTML5, PHP
 
 ###My hobbies:
