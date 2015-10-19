@@ -18,7 +18,9 @@ Web developer (front-end)
 - **(September 2011 - December 2011)** National Mining University *(laborant)*
 - **(August 2011 - October 2011)** National Mining University *(Jr. Researcher)*
 - **(November 2012 - November 2013)** PrivatBank *(Operator on an outgoing line on the separations of PrivatBank)*
+- **(November 2012 - now)** National Mining University *(aspirant)*
 - **(September 2014 - now)** National Mining University *(Jr. Researcher)*
+
 
 ###Additional Skills:
 Languages:
