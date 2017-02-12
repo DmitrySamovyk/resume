@@ -2,8 +2,7 @@
 * **Age:** 25
 * **Marital status:** Single
 * **Address:**  Dnepropetrovsk, Kirova 111b, app.605
-* **Skype:** samovyk_d 
-* **VK:** https://vk.com/id240828154
+* **Skype:** samovyk_d
 
 ###Objective:
 Web developer (front-end)
