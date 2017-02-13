@@ -11,14 +11,32 @@ Web developer (front-end)
 - **(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(magister in Mining)*
 - **(2012-now)** Dnepropetrovsk, National Mining University of Ukraine *(aspirant)*
 
-###Professional Experience:
-- **(June 2007 - September 2007)** Restourant "Репортеръ" *(bass-boy)*
-- **(August 2008 - June 2009)** Concert-hall Opera *(waiter)*
-- **(September 2011 - December 2011)** National Mining University *(laborant)*
-- **(August 2011 - October 2011)** National Mining University *(Jr. Researcher)*
-- **(November 2012 - November 2013)** PrivatBank *(Operator on an outgoing line on the separations of PrivatBank)*
-- **(November 2012 - now)** National Mining University *(aspirant)*
-- **(September 2014 - now)** National Mining University *(Jr. Researcher)*
+###Experience
+**Front-End developer**
+*WebTeam (IT) 03.2016 present*
+- development of front-end part of the project for the official European autodialers (BMW, Volkswagen, Audi, and others.);
+- development of new functionality in the admin part of the site;
+- implementation of the ability to add pictures and videos from youtube in the admin part and excretion in the user front-end part;
+- the addition of new functionality on the client side of the site;
+- addition to client-side sliders;
+- deducing on the client-side content that was added to admin's part of the site (pictures, videos, pictures along with the video);
+- work with twig templating;
+- development of front-end part of the project, written in Symfony 2;
+- working with Google maps API. By entering coordinates (or geolocation data) to pave the way to the nearest (selected) places on the map;
+- adding to the admin of the site images may be cut off to the desired size (the size of the pre-entered);
+
+**Front-end developer**
+8HQSale (WEB studio) 11.2015 - 02.20168
+- support and development of existing WordPress sites;
+- convert PSD to HTML for new websites by WordPress;
+- convert PSD to HTML5 using HTML5 (Bootstrap, Zurb Foundation), CSS3 (SASS, LESS), JavaScript(JQuery, Gulp/Grunt);
+- work with the Google Maps API. Conclusions of the entered address point coordinates of the markers and info windows;
+- work with the Youtube API. Adding video site youtube on the entered video URL;
+
+**Front-end developer**
+*stroyploshadka.ua (shop) 10.2015 - 11.2015*
+- convert PSD to HTML for CMS Opencart usingHTML5, CSS3 (SASS), JavaScript(Jquery)
+- connection plugins on Jquery (datepicker, slider etc.)
 
 
 ###Additional Skills:
@@ -26,14 +44,11 @@ Languages:
 - English Pre-Intermediate
 - Deutch A2
 
-###Computer skills: 
-- Windows, Linux
-- Photoshop
-- Sublime Text
-
 ###Professional skills:
-- **Junior:** CSS/CSS3, SASS , HTML/HTML5, WordPress, woocommerce, GIT/GITHUB, TortoiseGit, Marckdown, Gulp
-- **Learning:** JavaScript, jQuery, CSS3, HTML5, PHP
+ - **Junior:** underscore.js, webpack, twig, symfoni 2
+ - **Strong:** Javascript, Gulp, Jquery, AJAX, GIT/GITHUB, TortoiseGit, 
+ CSS/CSS3, SASS, LESS, Zurb Foundation, Bootstrap, HTML/HTML5, WordPress
+ - **Learning:** React, Redux, node.js, JavaScript, webpack
 
 ###My hobbies:
 - American Football
