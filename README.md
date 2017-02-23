@@ -26,7 +26,7 @@ Web developer (front-end)
 - adding to the admin of the site images may be cut off to the desired size (the size of the pre-entered);
 
 **Front-end developer**
-*HQSale (WEB studio) 11.2015 - 02.20168
+*HQSale (WEB studio) 11.2015 - 02.2016*
 - support and development of existing WordPress sites;
 - convert PSD to HTML for new websites by WordPress;
 - convert PSD to HTML5 using HTML5 (Bootstrap, Zurb Foundation), CSS3 (SASS, LESS), JavaScript(JQuery, Gulp/Grunt);
