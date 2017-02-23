@@ -26,18 +26,12 @@ Web developer (front-end)
 - adding to the admin of the site images may be cut off to the desired size (the size of the pre-entered);
 
 **Front-end developer**
-8HQSale (WEB studio) 11.2015 - 02.20168
+*HQSale (WEB studio) 11.2015 - 02.20168
 - support and development of existing WordPress sites;
 - convert PSD to HTML for new websites by WordPress;
 - convert PSD to HTML5 using HTML5 (Bootstrap, Zurb Foundation), CSS3 (SASS, LESS), JavaScript(JQuery, Gulp/Grunt);
 - work with the Google Maps API. Conclusions of the entered address point coordinates of the markers and info windows;
 - work with the Youtube API. Adding video site youtube on the entered video URL;
-
-**Front-end developer**
-*stroyploshadka.ua (shop) 10.2015 - 11.2015*
-- convert PSD to HTML for CMS Opencart usingHTML5, CSS3 (SASS), JavaScript(Jquery)
-- connection plugins on Jquery (datepicker, slider etc.)
-
 
 ###Additional Skills:
 Languages:
