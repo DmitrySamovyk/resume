@@ -1,15 +1,13 @@
 * **Date of birth:** May, 29, 1990
-* **Age:** 25
-* **Marital status:** Single
-* **Address:**  Dnepropetrovsk, Kirova 111b, app.605
+* **Age:** 26
 * **Skype:** samovyk_d
 
 ###Objective:
 Web developer (front-end)
 
 ###Education:
-- **(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(magister in Mining)*
-- **(2012-now)** Dnepropetrovsk, National Mining University of Ukraine *(aspirant)*
+- **(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(Master's degree)*
+- **(2012-2015)** Dnepropetrovsk, National Mining University of Ukraine *(Graduate student)*
 
 ###Experience
 **Front-End developer**
