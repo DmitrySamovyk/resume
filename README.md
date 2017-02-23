@@ -39,8 +39,8 @@ Languages:
 - Deutch A2
 
 ###Professional skills:
- - **Junior:** underscore.js, webpack, twig, symfoni 2
- - **Strong:** Javascript, Gulp, Jquery, AJAX, GIT/GITHUB, TortoiseGit, 
+ - **Junior:** underscore.js, twig, symfoni 2
+ - **Strong:** Javascript,webpack, Gulp, Jquery, AJAX, GIT/GITHUB, TortoiseGit, 
  CSS/CSS3, SASS, LESS, Zurb Foundation, Bootstrap, HTML/HTML5, WordPress
  - **Learning:** React, Redux, node.js, JavaScript, webpack
 
