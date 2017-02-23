@@ -6,8 +6,8 @@
 Web developer (front-end)
 
 ###Education:
-- **(2007-2012)** Dnepropetrovsk, National Mining University of Ukraine *(Master's degree)*
-- **(2012-2015)** Dnepropetrovsk, National Mining University of Ukraine *(Graduate student)*
+- **(2007-2012)** National Mining University, Dnepropetrovsk *(Master's degree)*
+- **(2012-2015)** National Mining University, Dnepropetrovsk *(Graduate student)*
 
 ###Experience
 **Front-End developer**
