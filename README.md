@@ -2,17 +2,17 @@
 * **Age:** 26
 * **Skype:** samovyk_d
 
-###Objective:
+### Objective:
 Web developer (front-end)
 
-###Education:
+### Education:
 - **(2007-2012)** National Mining University, Dnepropetrovsk *(Master's degree)*
 - **(2012-2015)** National Mining University, Dnepropetrovsk *(Graduate student)*
 
-###Additional Education:
+### Additional Education:
 (2016) Node.js - javascript.ru
 
-###Experience
+### Experience
 
 **Full-stack Web developer**
 *joyasolutions.com (August 2017 - now)*
@@ -40,7 +40,7 @@ Full-stack Web developer
 - work with the Google Maps API. Conclusions of the entered address point coordinates of the markers and info windows;
 - work with the Youtube API. Adding video site youtube on the entered video URL;
 
-###Computer skills
+### Computer skills
 - Windows, Linux (desktop/server);
 - Mac OS;
 - Photoshop;
@@ -48,11 +48,11 @@ Full-stack Web developer
 - Atom;
 - WebStorm;
 
-###Professional skills
+### Professional skills
 Junior: react native, node.js, express, mobgoDB, twig, symfony2
 Middle:  Backbone, Underscore, WordPress
 Strong: Javascript, React, Redux, webpack, AJAX, GIT, CSS/CSS3, SASS, Zurb Foundation, Bootstrap (react-bootstrap), HTML/HTML5, Jira/Redmine
 
-Languages
+### Languages
 - English - intermediate (studying with a tutor);
 - German - pre intermediate (elementary possession);
