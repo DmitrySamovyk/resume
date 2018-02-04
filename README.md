@@ -9,9 +9,18 @@ Web developer (front-end)
 - **(2007-2012)** National Mining University, Dnepropetrovsk *(Master's degree)*
 - **(2012-2015)** National Mining University, Dnepropetrovsk *(Graduate student)*
 
+###Additional Education:
+(2016) Node.js - javascript.ru
+
 ###Experience
+
+**Full-stack Web developer**
+*joyasolutions.com (August 2017 - now)*
+Full-stack Web developer
+- full cycle development of applications using the MERN stack (development is mainly on react/redux, to a lesser extent on the node.js, express, mongoDB. Primarily front-end development on react, development on node.js less);
+
 **Front-End developer**
-*WebTeam (IT) 03.2016 present*
+*WebTeam (IT) 03.2016 - 08.2017*
 - development of front-end part of the project for the official European autodialers (BMW, Volkswagen, Audi, and others.);
 - development of new functionality in the admin part of the site;
 - implementation of the ability to add pictures and videos from youtube in the admin part and excretion in the user front-end part;
@@ -31,17 +40,19 @@ Web developer (front-end)
 - work with the Google Maps API. Conclusions of the entered address point coordinates of the markers and info windows;
 - work with the Youtube API. Adding video site youtube on the entered video URL;
 
-###Additional Skills:
-Languages:
-- English Pre-Intermediate
-- Deutch A2
+###Computer skills
+- Windows, Linux (desktop/server);
+- Mac OS;
+- Photoshop;
+- Sublime Text;
+- Atom;
+- WebStorm;
 
-###Professional skills:
- - **Junior:** underscore.js, twig, symfoni 2
- - **Strong:** Javascript,webpack, Gulp, Jquery, AJAX, GIT/GITHUB, TortoiseGit, 
- CSS/CSS3, SASS, LESS, Zurb Foundation, Bootstrap, HTML/HTML5, WordPress
- - **Learning:** React, Redux, node.js, JavaScript, webpack
+###Professional skills
+Junior: react native, node.js, express, mobgoDB, twig, symfony2
+Middle:  Backbone, Underscore, WordPress
+Strong: Javascript, React, Redux, webpack, AJAX, GIT, CSS/CSS3, SASS, Zurb Foundation, Bootstrap (react-bootstrap), HTML/HTML5, Jira/Redmine
 
-###My hobbies:
-- American Football
-- Crossfit
+Languages
+- English - intermediate (studying with a tutor);
+- German - pre intermediate (elementary possession);
