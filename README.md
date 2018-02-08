@@ -1,6 +1,8 @@
-* **Date of birth:** May, 29, 1990
-* **Age:** 26
-* **Skype:** samovyk_d
+**Date of birth:** May, 29, 1990
+
+**Age:** 27
+
+**Skype:** samovyk_d
 
 ### Objective:
 Web developer (front-end)
