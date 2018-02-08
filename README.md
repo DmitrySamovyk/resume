@@ -49,9 +49,12 @@ Full-stack Web developer
 - WebStorm;
 
 ### Professional skills
-Junior: react native, node.js, express, mobgoDB, twig, symfony2
-Middle:  Backbone, Underscore, WordPress
-Strong: Javascript, React, Redux, webpack, AJAX, GIT, CSS/CSS3, SASS, Zurb Foundation, Bootstrap (react-bootstrap), HTML/HTML5, Jira/Redmine
+Strong: Javascript, React, Redux, webpack, AJAX, GIT, CSS/CSS3, SASS, Zurb Foundation, Bootstrap (react-bootstrap), HTML/HTML5, Jira/Redmine;
+
+Junior: react native, node.js, express, mobgoDB, twig, symfony2;
+
+Middle:  Backbone, Underscore, WordPress;
+
 
 ### Languages
 - English - intermediate (studying with a tutor);
