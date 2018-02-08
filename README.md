@@ -1,3 +1,5 @@
+<img align="right" width="125" height="125" src="https://avatars2.githubusercontent.com/u/13234069?s=460&v=4">
+
 **Date of birth:** May, 29, 1990
 
 **Age:** 27
